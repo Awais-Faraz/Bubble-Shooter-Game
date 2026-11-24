@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "unlocked": 2,
+  "completed": [
+    1
+  ],
+  "stars": {
+    "1": 3
+  },
+  "best_scores": {
+    "1": 400
+  },
+  "total_score": 400,
+  "high_score": 400,
+  "settings": {
+    "music": true,
+    "sfx": true,
+    "music_volume": 0.425,
+    "sfx_volume": 0.5125,
+    "fullscreen": false
+  },
+  "inventory": {
+    "bomb": 0,
+    "rainbow": 0,
+    "lightning": 0,
+    "extra": 0,
+    "fire": 0,
+    "slow": 0
+  },
+  "granted": []
+}
